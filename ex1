@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+	body
+	{
+		background-color:  yellow;
+	}
+	h1
+	{
+		color:  blue;
+		
+	}
+	p
+	{
+		color: navy;
+		font-family: courier;
+		font-size: large;
+	}
+	table, th, td 
+	{
+		border: 1px solid #000;
+	}
+	img
+	{
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		margin-color: rgb (64,24,78);
+	}
+	.photo
+	{
+		border-style: double;
+		border-width: 15px;
+		border-color: red;
+		border-radius: 15px;
+	}
+
+</style>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>Duca Matei-Alexandru</h1>
+<img src="Poza.jpg">
+<p>Citat reprezentativ: "I may not belive in myself but i belive in what I'm doing."</p>
+<p>ducamatei75@gmail.com</p>
+
+<h1>Materii preferate</h1>
+<table style="width:100%">
+  <tr>
+    <th>Componente si circuite pasive</th>
+    <th><a href="https://etti.utcluj.ro/files/FiseDisciplina/TstRo/EL3105.pdf">Componente si circuite pasive</a></th>
+    
+  </tr>
+  <tr>
+    <td>Programarea calculatoarelor</td>
+    <td><a href="https://etti.utcluj.ro/files/FiseDisciplina/EaRo/04.pdf"> Fisa disciplinei</a></td>
+  </tr>
+  <tr>
+    <td>Microprocesoare</td>
+    <td><a href="https://etti.utcluj.ro/files/FiseDisciplina/TstRo/EL3133.pdf">Microprocesoare</a></td>
+  </tr>
+</table>
+<h1>Pasiuni</h1>
+<ul>
+  <li>Muzica</li>
+  <li>Sport</li>
+  <li>Istorie</li>
+</ul>
+
+</body>
+</html>
+
