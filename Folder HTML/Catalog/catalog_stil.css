@@ -1,0 +1,34 @@
+body
+{
+	background-color: yellow;
+}
+h1
+	{
+		color:  blue;
+	}
+	p
+	{
+		color: navy;
+		font-family: courier;
+		font-size: large;
+	}
+	table, th, td 
+	{
+		border: 1px solid #000;
+	}
+	img
+	{
+		size: medium;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		margin-color: rgb (64,24,78);
+	}
+	.photo
+	{
+		size: medium;
+		border-style: double;
+		border-width: 30px;
+		border-color: red;
+		border-radius: 30px;
+	}
